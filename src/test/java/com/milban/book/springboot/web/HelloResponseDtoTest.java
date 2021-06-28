@@ -1,4 +1,4 @@
-package com.milban.book.springBoot.web.web;
+package com.milban.book.springboot.web;
 
 import com.milban.book.springboot.web.dto.HelloResponseDto;
 import org.junit.Test;

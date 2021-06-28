@@ -1,4 +1,4 @@
-package com.milban.book.springBoot.web;
+package com.milban.book.springboot.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
